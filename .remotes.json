@@ -6,6 +6,12 @@
     "from": "rtrees"
   },
   {
+    "package": "phylocomr",
+    "url": "https://github.com/ropensci/phylocomr",
+    "via": ["lirrr"],
+    "from": "lirrr"
+  },
+  {
     "package": "rtrees",
     "url": "https://github.com/daijiang/rtrees",
     "via": ["megatrees"],
