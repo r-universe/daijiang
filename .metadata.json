@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hillR",
+    "oncran": true
+  },
+  {
+    "package": "phyr",
+    "oncran": true
+  }
+]
