@@ -1,5 +1,11 @@
 [
   {
+    "package": "megatrees",
+    "url": "https://github.com/daijiang/megatrees",
+    "via": ["rtrees"],
+    "from": "rtrees"
+  },
+  {
     "package": "rtrees",
     "url": "https://github.com/daijiang/rtrees",
     "via": ["megatrees"],
