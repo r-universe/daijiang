@@ -1,10 +1,19 @@
 [
   {
-    "package": "hillR",
-    "oncran": true
+    "package": "megatrees"
+  },
+  {
+    "package": "rtrees"
   },
   {
     "package": "phyr",
+    "oncran": true
+  },
+  {
+    "package": "lirrr"
+  },
+  {
+    "package": "hillR",
     "oncran": true
   }
 ]
