@@ -1,11 +1,5 @@
 [
   {
-    "package": "megatrees",
-    "url": "https://github.com/daijiang/megatrees",
-    "via": ["rtrees"],
-    "from": "rtrees"
-  },
-  {
     "package": "phylocomr",
     "url": "https://github.com/ropensci/phylocomr",
     "via": ["lirrr"],
