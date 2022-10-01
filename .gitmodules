@@ -28,8 +28,8 @@
 	url = https://github.com/daijiang/hillR
 	shallow = true
 	registered = true
-[submodule "phylocomr"]
-	path = phylocomr
-	url = https://github.com/ropensci/phylocomr
+[submodule "PhyloMeasures"]
+	path = PhyloMeasures
+	url = https://github.com/cran/PhyloMeasures
 	shallow = true
 	registered = false

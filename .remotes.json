@@ -1,7 +1,7 @@
 [
   {
-    "package": "phylocomr",
-    "url": "https://github.com/ropensci/phylocomr",
+    "package": "PhyloMeasures",
+    "url": "https://github.com/cran/PhyloMeasures",
     "via": ["lirrr"],
     "from": "lirrr"
   },
