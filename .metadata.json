@@ -15,5 +15,8 @@
   {
     "package": "hillR",
     "oncran": true
+  },
+  {
+    "package": "neonDivData"
   }
 ]
