@@ -1,40 +1,26 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/daijiang/universe
-	shallow = true
 	branch = HEAD
 [submodule "megatrees"]
 	path = megatrees
 	url = https://github.com/daijiang/megatrees
-	shallow = true
-	registered = true
 [submodule "rtrees"]
 	path = rtrees
 	url = https://github.com/daijiang/rtrees
-	shallow = true
-	registered = true
 [submodule "phyr"]
 	path = phyr
 	url = https://github.com/daijiang/phyr
-	shallow = true
-	registered = true
 [submodule "lirrr"]
 	path = lirrr
 	url = https://github.com/daijiang/lirrr
-	shallow = true
-	registered = true
 [submodule "hillR"]
 	path = hillR
 	url = https://github.com/daijiang/hillR
-	shallow = true
-	registered = true
 [submodule "neonDivData"]
 	path = neonDivData
 	url = https://github.com/daijiang/neonDivData
-	shallow = true
-	registered = true
 [submodule "PhyloMeasures"]
 	path = PhyloMeasures
 	url = https://github.com/cran/PhyloMeasures
-	shallow = true
 	registered = false
