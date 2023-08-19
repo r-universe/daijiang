@@ -2,25 +2,25 @@
 	path = .registry
 	url = https://github.com/daijiang/universe
 	branch = HEAD
-[submodule "megatrees"]
-	path = megatrees
-	url = https://github.com/daijiang/megatrees
-[submodule "rtrees"]
-	path = rtrees
-	url = https://github.com/daijiang/rtrees
-[submodule "phyr"]
-	path = phyr
-	url = https://github.com/daijiang/phyr
-[submodule "lirrr"]
-	path = lirrr
-	url = https://github.com/daijiang/lirrr
-[submodule "hillR"]
-	path = hillR
-	url = https://github.com/daijiang/hillR
-[submodule "neonDivData"]
-	path = neonDivData
-	url = https://github.com/daijiang/neonDivData
 [submodule "PhyloMeasures"]
 	path = PhyloMeasures
 	url = https://github.com/cran/PhyloMeasures
 	registered = false
+[submodule "hillR"]
+	path = hillR
+	url = https://github.com/daijiang/hillR
+[submodule "lirrr"]
+	path = lirrr
+	url = https://github.com/daijiang/lirrr
+[submodule "megatrees"]
+	path = megatrees
+	url = https://github.com/daijiang/megatrees
+[submodule "neonDivData"]
+	path = neonDivData
+	url = https://github.com/daijiang/neonDivData
+[submodule "phyr"]
+	path = phyr
+	url = https://github.com/daijiang/phyr
+[submodule "rtrees"]
+	path = rtrees
+	url = https://github.com/daijiang/rtrees
