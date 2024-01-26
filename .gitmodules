@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/daijiang/universe
+	url = https://github.com/daijiang/daijiang.r-universe.dev
 	branch = HEAD
 [submodule "PhyloMeasures"]
 	path = PhyloMeasures
